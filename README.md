@@ -7,7 +7,7 @@ This is a full-stack web application that enables intelligent question-answering
 <li>HuggingFace embeddings for context retrieval</li>
 <li>Vector-based similarity search with Chroma</li>
 <li>Transformer-based question-answering model</li>
-
+<br>
 
 <ul>The tech stack includes:
 <li>Frontend: React.js </li>
@@ -16,7 +16,7 @@ This is a full-stack web application that enables intelligent question-answering
 <li>Vector Storage: Chroma</li>
 <li>ORM: SQLAlchemy</li>
 </ul>
-
+<br>
 <ul>Key features:
 <li>Drag-and-drop PDF upload</li>
 <li>Semantic context retrieval</li>
