@@ -21,4 +21,4 @@ This is a full-stack web application that enables intelligent question-answering
 <li>Drag-and-drop PDF upload</li>
 <li>Semantic context retrieval</li>
 <li>Real-time question answering</li>
-<li>rror handling and user feedback</li></ul>
+<li> Error handling and user feedback</li></ul>
